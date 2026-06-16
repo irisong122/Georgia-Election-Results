@@ -1,0 +1,637 @@
+county_name,candidate_name,election_day,absentee_mail,early_in_person,provisional,total
+Appling County,Donald J. Trump (Rep),"4,564","1,928",269,0,"6,761"
+Appling County,Kamala D. Harris (Dem),"1,024",381,155,0,"1,560"
+Appling County,Chase Oliver (Lib),4,3,1,0,8
+Appling County,Jill Stein (Grn),4,0,1,0,5
+Atkinson County,Donald J. Trump (Rep),"1,504",795,51,0,"2,350"
+Atkinson County,Kamala D. Harris (Dem),371,289,39,1,700
+Atkinson County,Chase Oliver (Lib),3,3,0,0,6
+Atkinson County,Jill Stein (Grn),0,0,1,0,1
+Bacon County,Donald J. Trump (Rep),"3,509",569,107,1,"4,186"
+Bacon County,Kamala D. Harris (Dem),413,194,38,0,645
+Bacon County,Chase Oliver (Lib),5,1,0,0,6
+Bacon County,Jill Stein (Grn),0,1,1,0,2
+Baker County,Donald J. Trump (Rep),521,306,56,0,883
+Baker County,Kamala D. Harris (Dem),330,173,79,8,590
+Baker County,Chase Oliver (Lib),0,1,0,0,1
+Baker County,Jill Stein (Grn),1,1,0,0,2
+Baldwin County,Donald J. Trump (Rep),"7,107","2,097",369,1,"9,574"
+Baldwin County,Kamala D. Harris (Dem),"6,019","2,406",731,3,"9,159"
+Baldwin County,Chase Oliver (Lib),38,19,2,0,59
+Baldwin County,Jill Stein (Grn),21,8,4,0,33
+Banks County,Donald J. Trump (Rep),"7,259","1,862",234,3,"9,358"
+Banks County,Kamala D. Harris (Dem),778,252,106,0,"1,136"
+Banks County,Chase Oliver (Lib),7,7,1,0,15
+Banks County,Jill Stein (Grn),4,6,0,0,10
+Barrow County,Donald J. Trump (Rep),"21,168","8,623",932,7,"30,730"
+Barrow County,Kamala D. Harris (Dem),"8,185","3,808",954,2,"12,949"
+Barrow County,Chase Oliver (Lib),91,89,3,0,183
+Barrow County,Jill Stein (Grn),29,38,5,0,72
+Bartow County,Donald J. Trump (Rep),"30,209","11,725","1,312",25,"43,271"
+Bartow County,Kamala D. Harris (Dem),"9,218","3,599","1,116",9,"13,942"
+Bartow County,Chase Oliver (Lib),112,118,11,1,242
+Bartow County,Jill Stein (Grn),49,36,7,0,92
+Ben Hill County,Donald J. Trump (Rep),"3,562",608,111,0,"4,281"
+Ben Hill County,Kamala D. Harris (Dem),"1,580",447,172,0,"2,199"
+Ben Hill County,Chase Oliver (Lib),11,2,1,0,14
+Ben Hill County,Jill Stein (Grn),6,1,0,0,7
+Berrien County,Donald J. Trump (Rep),"4,564","2,081",194,2,"6,841"
+Berrien County,Kamala D. Harris (Dem),684,427,98,0,"1,209"
+Berrien County,Chase Oliver (Lib),12,3,0,0,15
+Berrien County,Jill Stein (Grn),3,0,0,0,3
+Bibb County,Donald J. Trump (Rep),"17,905","7,800",931,22,"26,658"
+Bibb County,Kamala D. Harris (Dem),"26,994","12,151","2,941",86,"42,172"
+Bibb County,Chase Oliver (Lib),101,109,5,0,215
+Bibb County,Jill Stein (Grn),61,64,10,1,136
+Bleckley County,Donald J. Trump (Rep),"3,545",995,145,0,"4,685"
+Bleckley County,Kamala D. Harris (Dem),797,425,117,0,"1,339"
+Bleckley County,Chase Oliver (Lib),8,5,0,0,13
+Bleckley County,Jill Stein (Grn),5,1,1,0,7
+Brantley County,Donald J. Trump (Rep),"5,299","2,276",166,3,"7,744"
+Brantley County,Kamala D. Harris (Dem),447,221,68,0,736
+Brantley County,Chase Oliver (Lib),6,10,0,0,16
+Brantley County,Jill Stein (Grn),2,2,0,0,4
+Brooks County,Donald J. Trump (Rep),"2,922","1,509",126,3,"4,560"
+Brooks County,Kamala D. Harris (Dem),"1,559",803,267,0,"2,629"
+Brooks County,Chase Oliver (Lib),3,5,0,0,8
+Brooks County,Jill Stein (Grn),6,7,0,0,13
+Bryan County,Donald J. Trump (Rep),"13,053","3,204",471,10,"16,738"
+Bryan County,Kamala D. Harris (Dem),"5,634","1,516",622,7,"7,779"
+Bryan County,Chase Oliver (Lib),45,33,1,0,79
+Bryan County,Jill Stein (Grn),34,20,1,0,55
+Bulloch County,Donald J. Trump (Rep),"12,967","7,323",674,21,"20,985"
+Bulloch County,Kamala D. Harris (Dem),"7,076","3,526",896,16,"11,514"
+Bulloch County,Chase Oliver (Lib),52,55,2,1,110
+Bulloch County,Jill Stein (Grn),20,26,2,0,48
+Burke County,Donald J. Trump (Rep),"3,596","2,268",158,5,"6,027"
+Burke County,Kamala D. Harris (Dem),"2,597","1,980",412,5,"4,994"
+Burke County,Chase Oliver (Lib),8,23,2,0,33
+Burke County,Jill Stein (Grn),6,10,0,0,16
+Butts County,Donald J. Trump (Rep),"8,048","1,156",220,0,"9,424"
+Butts County,Kamala D. Harris (Dem),"2,715",625,204,0,"3,544"
+Butts County,Chase Oliver (Lib),26,11,2,0,39
+Butts County,Jill Stein (Grn),5,6,1,0,12
+Calhoun County,Donald J. Trump (Rep),611,254,31,4,900
+Calhoun County,Kamala D. Harris (Dem),540,496,116,1,"1,153"
+Calhoun County,Chase Oliver (Lib),2,1,0,0,3
+Calhoun County,Jill Stein (Grn),0,0,0,0,0
+Camden County,Donald J. Trump (Rep),"13,007","4,172",633,7,"17,819"
+Camden County,Kamala D. Harris (Dem),"5,627","1,921",856,1,"8,405"
+Camden County,Chase Oliver (Lib),64,42,9,0,115
+Camden County,Jill Stein (Grn),24,28,2,0,54
+Candler County,Donald J. Trump (Rep),"2,687",613,66,0,"3,366"
+Candler County,Kamala D. Harris (Dem),802,325,69,0,"1,196"
+Candler County,Chase Oliver (Lib),2,1,0,0,3
+Candler County,Jill Stein (Grn),1,2,0,0,3
+Carroll County,Donald J. Trump (Rep),"27,387","14,155",981,13,"42,536"
+Carroll County,Kamala D. Harris (Dem),"11,309","5,244","1,068",13,"17,634"
+Carroll County,Chase Oliver (Lib),88,124,4,0,216
+Carroll County,Jill Stein (Grn),46,60,2,0,108
+Catoosa County,Donald J. Trump (Rep),"20,723","5,707",712,8,"27,150"
+Catoosa County,Kamala D. Harris (Dem),"5,528","1,561",614,1,"7,704"
+Catoosa County,Chase Oliver (Lib),87,47,3,0,137
+Catoosa County,Jill Stein (Grn),19,25,3,0,47
+Charlton County,Donald J. Trump (Rep),"2,353","1,153",99,2,"3,607"
+Charlton County,Kamala D. Harris (Dem),650,293,63,1,"1,007"
+Charlton County,Chase Oliver (Lib),6,2,1,0,9
+Charlton County,Jill Stein (Grn),3,1,1,0,5
+Chatham County,Donald J. Trump (Rep),"38,752","15,885","2,673",26,"57,336"
+Chatham County,Kamala D. Harris (Dem),"51,966","23,346","7,377",69,"82,758"
+Chatham County,Chase Oliver (Lib),264,265,41,1,571
+Chatham County,Jill Stein (Grn),217,205,21,1,444
+Chattahoochee County,Donald J. Trump (Rep),562,356,63,1,982
+Chattahoochee County,Kamala D. Harris (Dem),411,240,50,2,703
+Chattahoochee County,Chase Oliver (Lib),4,2,0,0,6
+Chattahoochee County,Jill Stein (Grn),1,2,0,0,3
+Chattooga County,Donald J. Trump (Rep),"5,810","2,731",227,1,"8,769"
+Chattooga County,Kamala D. Harris (Dem),"1,229",529,138,0,"1,896"
+Chattooga County,Chase Oliver (Lib),11,15,2,0,28
+Chattooga County,Jill Stein (Grn),2,10,1,0,13
+Cherokee County,Donald J. Trump (Rep),"82,749","24,419","4,936",38,"112,142"
+Cherokee County,Kamala D. Harris (Dem),"33,082","10,819","4,912",25,"48,838"
+Cherokee County,Chase Oliver (Lib),478,348,43,0,869
+Cherokee County,Jill Stein (Grn),212,182,38,0,432
+Clarke County,Donald J. Trump (Rep),"10,897","4,302",846,4,"16,049"
+Clarke County,Kamala D. Harris (Dem),"25,271","8,174","2,839",13,"36,297"
+Clarke County,Chase Oliver (Lib),176,112,9,0,297
+Clarke County,Jill Stein (Grn),129,94,21,0,244
+Clay County,Donald J. Trump (Rep),477,155,31,0,663
+Clay County,Kamala D. Harris (Dem),393,264,114,0,771
+Clay County,Chase Oliver (Lib),1,5,0,0,6
+Clay County,Jill Stein (Grn),2,0,0,0,2
+Clayton County,Donald J. Trump (Rep),"11,419","4,710",733,15,"16,877"
+Clayton County,Kamala D. Harris (Dem),"68,728","21,208","4,203",64,"94,203"
+Clayton County,Chase Oliver (Lib),157,126,15,0,298
+Clayton County,Jill Stein (Grn),207,119,25,0,351
+Clinch County,Donald J. Trump (Rep),"1,505",649,47,0,"2,201"
+Clinch County,Kamala D. Harris (Dem),421,248,33,0,702
+Clinch County,Chase Oliver (Lib),0,3,0,0,3
+Clinch County,Jill Stein (Grn),1,1,0,0,2
+Cobb County,Donald J. Trump (Rep),"122,427","37,996","8,030",226,"168,679"
+Cobb County,Kamala D. Harris (Dem),"166,260","44,783","17,004",357,"228,404"
+Cobb County,Chase Oliver (Lib),"1,256",943,133,3,"2,335"
+Cobb County,Jill Stein (Grn),"1,061",792,95,3,"1,951"
+Coffee County,Donald J. Trump (Rep),"8,112","3,038",220,18,"11,388"
+Coffee County,Kamala D. Harris (Dem),"2,664","1,415",208,8,"4,295"
+Coffee County,Chase Oliver (Lib),10,11,1,0,22
+Coffee County,Jill Stein (Grn),2,6,2,0,10
+Colquitt County,Donald J. Trump (Rep),"7,713","4,390",342,6,"12,451"
+Colquitt County,Kamala D. Harris (Dem),"2,426","1,395",289,4,"4,114"
+Colquitt County,Chase Oliver (Lib),14,17,0,0,31
+Colquitt County,Jill Stein (Grn),12,3,0,0,15
+Columbia County,Donald J. Trump (Rep),"38,439","13,211","1,969",38,"53,657"
+Columbia County,Kamala D. Harris (Dem),"21,165","7,563","2,869",27,"31,624"
+Columbia County,Chase Oliver (Lib),174,140,24,0,338
+Columbia County,Jill Stein (Grn),160,119,21,1,301
+Cook County,Donald J. Trump (Rep),"3,948","1,272",154,0,"5,374"
+Cook County,Kamala D. Harris (Dem),"1,143",692,121,0,"1,956"
+Cook County,Chase Oliver (Lib),11,6,1,0,18
+Cook County,Jill Stein (Grn),4,3,2,0,9
+Coweta County,Donald J. Trump (Rep),"41,794","13,016","2,380",14,"57,204"
+Coweta County,Kamala D. Harris (Dem),"19,256","6,309","2,540",6,"28,111"
+Coweta County,Chase Oliver (Lib),218,176,21,0,415
+Coweta County,Jill Stein (Grn),113,53,20,0,186
+Crawford County,Donald J. Trump (Rep),"3,232","1,375",131,4,"4,742"
+Crawford County,Kamala D. Harris (Dem),"1,109",352,117,4,"1,582"
+Crawford County,Chase Oliver (Lib),4,7,0,0,11
+Crawford County,Jill Stein (Grn),0,5,0,0,5
+Crisp County,Donald J. Trump (Rep),"3,770","1,112",216,1,"5,099"
+Crisp County,Kamala D. Harris (Dem),"1,964",827,202,0,"2,993"
+Crisp County,Chase Oliver (Lib),10,7,0,0,17
+Crisp County,Jill Stein (Grn),2,3,2,0,7
+Dade County,Donald J. Trump (Rep),"4,439","2,214",141,10,"6,804"
+Dade County,Kamala D. Harris (Dem),869,371,102,1,"1,343"
+Dade County,Chase Oliver (Lib),18,16,1,0,35
+Dade County,Jill Stein (Grn),6,11,1,0,18
+Dawson County,Donald J. Trump (Rep),"13,218","2,345",550,2,"16,115"
+Dawson County,Kamala D. Harris (Dem),"2,521",476,352,1,"3,350"
+Dawson County,Chase Oliver (Lib),48,15,3,0,66
+Dawson County,Jill Stein (Grn),20,10,0,0,30
+Decatur County,Donald J. Trump (Rep),"4,975","1,888",273,4,"7,140"
+Decatur County,Kamala D. Harris (Dem),"2,731","1,251",386,4,"4,372"
+Decatur County,Chase Oliver (Lib),5,14,3,0,22
+Decatur County,Jill Stein (Grn),9,6,0,0,15
+DeKalb County,Donald J. Trump (Rep),"42,220","17,292","3,070",40,"62,622"
+DeKalb County,Kamala D. Harris (Dem),"225,667","54,411","19,346",206,"299,630"
+DeKalb County,Chase Oliver (Lib),841,628,87,1,"1,557"
+DeKalb County,Jill Stein (Grn),"1,197",872,126,4,"2,199"
+Dodge County,Donald J. Trump (Rep),"3,751","2,254",241,3,"6,249"
+Dodge County,Kamala D. Harris (Dem),"1,209",710,162,0,"2,081"
+Dodge County,Chase Oliver (Lib),5,8,0,0,13
+Dodge County,Jill Stein (Grn),3,4,0,0,7
+Dooly County,Donald J. Trump (Rep),"1,514",669,60,0,"2,243"
+Dooly County,Kamala D. Harris (Dem),"1,049",708,162,2,"1,921"
+Dooly County,Chase Oliver (Lib),4,1,2,0,7
+Dooly County,Jill Stein (Grn),4,2,0,0,6
+Dougherty County,Donald J. Trump (Rep),"5,560","3,857",483,4,"9,904"
+Dougherty County,Kamala D. Harris (Dem),"13,639","8,576","1,598",18,"23,831"
+Dougherty County,Chase Oliver (Lib),30,29,4,0,63
+Dougherty County,Jill Stein (Grn),15,29,8,0,52
+Douglas County,Donald J. Trump (Rep),"17,796","5,350",836,14,"23,996"
+Douglas County,Kamala D. Harris (Dem),"34,018","9,677","2,520",25,"46,240"
+Douglas County,Chase Oliver (Lib),127,94,12,0,233
+Douglas County,Jill Stein (Grn),147,89,16,0,252
+Early County,Donald J. Trump (Rep),"1,809",798,111,0,"2,718"
+Early County,Kamala D. Harris (Dem),"1,185",811,161,1,"2,158"
+Early County,Chase Oliver (Lib),0,1,0,0,1
+Early County,Jill Stein (Grn),1,1,0,0,2
+Echols County,Donald J. Trump (Rep),"1,014",261,31,1,"1,307"
+Echols County,Kamala D. Harris (Dem),98,27,2,0,127
+Echols County,Chase Oliver (Lib),1,0,0,0,1
+Echols County,Jill Stein (Grn),2,0,1,0,3
+Effingham County,Donald J. Trump (Rep),"17,453","8,886",589,15,"26,943"
+Effingham County,Kamala D. Harris (Dem),"5,384","3,015",744,1,"9,144"
+Effingham County,Chase Oliver (Lib),48,58,5,0,111
+Effingham County,Jill Stein (Grn),18,25,2,1,46
+Elbert County,Donald J. Trump (Rep),"4,474","2,188",192,6,"6,860"
+Elbert County,Kamala D. Harris (Dem),"1,675",753,267,5,"2,700"
+Elbert County,Chase Oliver (Lib),6,11,2,0,19
+Elbert County,Jill Stein (Grn),3,7,0,0,10
+Emanuel County,Donald J. Trump (Rep),"3,848","2,899",163,9,"6,919"
+Emanuel County,Kamala D. Harris (Dem),"1,403","1,073",193,4,"2,673"
+Emanuel County,Chase Oliver (Lib),11,10,1,0,22
+Emanuel County,Jill Stein (Grn),2,3,0,0,5
+Evans County,Donald J. Trump (Rep),"2,244",634,132,1,"3,011"
+Evans County,Kamala D. Harris (Dem),770,306,137,1,"1,214"
+Evans County,Chase Oliver (Lib),7,5,0,0,12
+Evans County,Jill Stein (Grn),6,1,0,0,7
+Fannin County,Donald J. Trump (Rep),"8,652","3,885",672,23,"13,232"
+Fannin County,Kamala D. Harris (Dem),"1,886",586,332,3,"2,807"
+Fannin County,Chase Oliver (Lib),22,21,1,0,44
+Fannin County,Jill Stein (Grn),7,6,0,0,13
+Fayette County,Donald J. Trump (Rep),"29,804","6,724","1,644",5,"38,177"
+Fayette County,Kamala D. Harris (Dem),"27,532","5,611","2,672",7,"35,822"
+Fayette County,Chase Oliver (Lib),224,139,14,0,377
+Fayette County,Jill Stein (Grn),159,80,18,0,257
+Floyd County,Donald J. Trump (Rep),"22,173","8,448",976,34,"31,631"
+Floyd County,Kamala D. Harris (Dem),"8,608","3,194","1,037",23,"12,862"
+Floyd County,Chase Oliver (Lib),93,66,8,0,167
+Floyd County,Jill Stein (Grn),40,37,1,0,78
+Forsyth County,Donald J. Trump (Rep),"73,485","14,062","3,686",48,"91,281"
+Forsyth County,Kamala D. Harris (Dem),"33,929","7,477","4,075",28,"45,509"
+Forsyth County,Chase Oliver (Lib),433,237,31,0,701
+Forsyth County,Jill Stein (Grn),462,266,29,1,758
+Franklin County,Donald J. Trump (Rep),"7,187","2,983",286,3,"10,459"
+Franklin County,Kamala D. Harris (Dem),"1,014",494,139,0,"1,647"
+Franklin County,Chase Oliver (Lib),12,12,1,0,25
+Franklin County,Jill Stein (Grn),7,1,1,0,9
+Fulton County,Donald J. Trump (Rep),"112,454","25,789","6,280",132,"144,655"
+Fulton County,Kamala D. Harris (Dem),"297,293","64,475","22,497",487,"384,752"
+Fulton County,Chase Oliver (Lib),"1,512",870,123,2,"2,507"
+Fulton County,Jill Stein (Grn),"2,073","1,073",171,7,"3,324"
+Gilmer County,Donald J. Trump (Rep),"10,200","4,172",565,39,"14,976"
+Gilmer County,Kamala D. Harris (Dem),"2,260",767,369,17,"3,413"
+Gilmer County,Chase Oliver (Lib),32,42,1,0,75
+Gilmer County,Jill Stein (Grn),7,10,0,0,17
+Glascock County,Donald J. Trump (Rep),"1,030",458,46,0,"1,534"
+Glascock County,Kamala D. Harris (Dem),75,44,14,0,133
+Glascock County,Chase Oliver (Lib),2,0,1,0,3
+Glascock County,Jill Stein (Grn),0,0,0,0,0
+Glynn County,Donald J. Trump (Rep),"21,608","4,866","1,075",9,"27,558"
+Glynn County,Kamala D. Harris (Dem),"11,169","3,332","1,630",13,"16,144"
+Glynn County,Chase Oliver (Lib),69,43,12,0,124
+Glynn County,Jill Stein (Grn),48,29,9,0,86
+Gordon County,Donald J. Trump (Rep),"14,503","7,368",614,10,"22,495"
+Gordon County,Kamala D. Harris (Dem),"3,084","1,568",326,4,"4,982"
+Gordon County,Chase Oliver (Lib),52,38,4,0,94
+Gordon County,Jill Stein (Grn),18,14,3,0,35
+Grady County,Donald J. Trump (Rep),"4,926","2,199",260,0,"7,385"
+Grady County,Kamala D. Harris (Dem),"2,051",911,326,2,"3,290"
+Grady County,Chase Oliver (Lib),17,13,1,0,31
+Grady County,Jill Stein (Grn),5,6,1,0,12
+Greene County,Donald J. Trump (Rep),"6,721","1,126",367,1,"8,215"
+Greene County,Kamala D. Harris (Dem),"3,049","1,046",419,0,"4,514"
+Greene County,Chase Oliver (Lib),28,16,1,0,45
+Greene County,Jill Stein (Grn),8,4,0,0,12
+Gwinnett County,Donald J. Trump (Rep),"121,789","43,696","7,411",145,"173,041"
+Gwinnett County,Kamala D. Harris (Dem),"172,987","53,011","16,303",206,"242,507"
+Gwinnett County,Chase Oliver (Lib),"1,096",724,102,1,"1,923"
+Gwinnett County,Jill Stein (Grn),"1,582","1,447",178,3,"3,210"
+Habersham County,Donald J. Trump (Rep),"15,428","3,027",680,7,"19,142"
+Habersham County,Kamala D. Harris (Dem),"2,859",801,376,0,"4,036"
+Habersham County,Chase Oliver (Lib),42,19,2,0,63
+Habersham County,Jill Stein (Grn),19,19,1,0,39
+Hall County,Donald J. Trump (Rep),"56,205","14,105","2,671",10,"72,991"
+Hall County,Kamala D. Harris (Dem),"19,216","6,493","2,618",20,"28,347"
+Hall County,Chase Oliver (Lib),277,141,32,0,450
+Hall County,Jill Stein (Grn),97,77,11,0,185
+Hancock County,Donald J. Trump (Rep),978,324,61,1,"1,364"
+Hancock County,Kamala D. Harris (Dem),"1,545",907,410,2,"2,864"
+Hancock County,Chase Oliver (Lib),3,3,1,0,7
+Hancock County,Jill Stein (Grn),1,2,2,0,5
+Haralson County,Donald J. Trump (Rep),"9,060","4,793",386,0,"14,239"
+Haralson County,Kamala D. Harris (Dem),"1,247",634,184,0,"2,065"
+Haralson County,Chase Oliver (Lib),17,21,1,0,39
+Haralson County,Jill Stein (Grn),10,10,1,0,21
+Harris County,Donald J. Trump (Rep),"10,863","4,870",541,9,"16,283"
+Harris County,Kamala D. Harris (Dem),"3,733","1,692",549,2,"5,976"
+Harris County,Chase Oliver (Lib),32,23,6,0,61
+Harris County,Jill Stein (Grn),15,16,2,0,33
+Hart County,Donald J. Trump (Rep),"8,070","2,669",325,0,"11,064"
+Hart County,Kamala D. Harris (Dem),"2,047",866,297,0,"3,210"
+Hart County,Chase Oliver (Lib),23,18,1,0,42
+Hart County,Jill Stein (Grn),9,5,1,0,15
+Heard County,Donald J. Trump (Rep),"3,148","1,947",240,0,"5,335"
+Heard County,Kamala D. Harris (Dem),456,293,109,1,859
+Heard County,Chase Oliver (Lib),8,5,1,0,14
+Heard County,Jill Stein (Grn),0,2,0,0,2
+Henry County,Donald J. Trump (Rep),"34,472","9,033","1,471",6,"44,982"
+Henry County,Kamala D. Harris (Dem),"63,967","14,884","4,381",21,"83,253"
+Henry County,Chase Oliver (Lib),266,158,21,0,445
+Henry County,Jill Stein (Grn),202,131,21,0,354
+Houston County,Donald J. Trump (Rep),"34,925","8,388","1,767",10,"45,090"
+Houston County,Kamala D. Harris (Dem),"25,235","7,774","2,876",22,"35,907"
+Houston County,Chase Oliver (Lib),199,118,22,0,339
+Houston County,Jill Stein (Grn),94,71,13,0,178
+Irwin County,Donald J. Trump (Rep),"2,421",856,63,0,"3,340"
+Irwin County,Kamala D. Harris (Dem),630,301,54,1,986
+Irwin County,Chase Oliver (Lib),5,6,1,0,12
+Irwin County,Jill Stein (Grn),2,2,0,0,4
+Jackson County,Donald J. Trump (Rep),"28,262","7,159","1,059",17,"36,497"
+Jackson County,Kamala D. Harris (Dem),"7,245","2,404",818,5,"10,472"
+Jackson County,Chase Oliver (Lib),126,78,4,0,208
+Jackson County,Jill Stein (Grn),32,27,7,0,66
+Jasper County,Donald J. Trump (Rep),"4,884","2,099",212,8,"7,203"
+Jasper County,Kamala D. Harris (Dem),"1,152",536,191,2,"1,881"
+Jasper County,Chase Oliver (Lib),17,7,1,0,25
+Jasper County,Jill Stein (Grn),5,2,2,0,9
+Jeff Davis County,Donald J. Trump (Rep),"3,237","1,590",108,0,"4,935"
+Jeff Davis County,Kamala D. Harris (Dem),539,318,67,0,924
+Jeff Davis County,Chase Oliver (Lib),2,7,0,0,9
+Jeff Davis County,Jill Stein (Grn),3,1,0,0,4
+Jefferson County,Donald J. Trump (Rep),"2,188","1,457",113,7,"3,765"
+Jefferson County,Kamala D. Harris (Dem),"1,871","1,462",338,3,"3,674"
+Jefferson County,Chase Oliver (Lib),7,11,1,0,19
+Jefferson County,Jill Stein (Grn),2,2,1,0,5
+Jenkins County,Donald J. Trump (Rep),"1,532",617,68,0,"2,217"
+Jenkins County,Kamala D. Harris (Dem),700,405,74,0,"1,179"
+Jenkins County,Chase Oliver (Lib),1,8,0,0,9
+Jenkins County,Jill Stein (Grn),3,0,1,0,4
+Johnson County,Donald J. Trump (Rep),"1,923",894,96,0,"2,913"
+Johnson County,Kamala D. Harris (Dem),645,328,93,0,"1,066"
+Johnson County,Chase Oliver (Lib),1,4,0,0,5
+Johnson County,Jill Stein (Grn),0,0,0,0,0
+Jones County,Donald J. Trump (Rep),"7,796","2,939",342,2,"11,079"
+Jones County,Kamala D. Harris (Dem),"3,168","1,270",519,2,"4,959"
+Jones County,Chase Oliver (Lib),19,18,3,0,40
+Jones County,Jill Stein (Grn),8,5,1,0,14
+Lamar County,Donald J. Trump (Rep),"5,909","1,479",185,2,"7,575"
+Lamar County,Kamala D. Harris (Dem),"1,855",678,262,0,"2,795"
+Lamar County,Chase Oliver (Lib),16,17,0,0,33
+Lamar County,Jill Stein (Grn),5,3,1,0,9
+Lanier County,Donald J. Trump (Rep),"2,018",661,47,0,"2,726"
+Lanier County,Kamala D. Harris (Dem),628,302,65,0,995
+Lanier County,Chase Oliver (Lib),4,9,0,0,13
+Lanier County,Jill Stein (Grn),2,0,0,0,2
+Laurens County,Donald J. Trump (Rep),"9,032","5,886",536,6,"15,460"
+Laurens County,Kamala D. Harris (Dem),"4,316","2,762",741,1,"7,820"
+Laurens County,Chase Oliver (Lib),18,26,2,0,46
+Laurens County,Jill Stein (Grn),12,14,0,0,26
+Lee County,Donald J. Trump (Rep),"8,843","3,515",296,1,"12,655"
+Lee County,Kamala D. Harris (Dem),"3,143","1,497",317,0,"4,957"
+Lee County,Chase Oliver (Lib),26,13,6,0,45
+Lee County,Jill Stein (Grn),15,11,0,0,26
+Liberty County,Donald J. Trump (Rep),"6,332","2,721",386,2,"9,441"
+Liberty County,Kamala D. Harris (Dem),"9,268","3,018","1,168",5,"13,459"
+Liberty County,Chase Oliver (Lib),41,29,5,0,75
+Liberty County,Jill Stein (Grn),28,23,2,0,53
+Lincoln County,Donald J. Trump (Rep),"2,718",725,113,3,"3,559"
+Lincoln County,Kamala D. Harris (Dem),806,336,207,2,"1,351"
+Lincoln County,Chase Oliver (Lib),7,7,1,0,15
+Lincoln County,Jill Stein (Grn),4,2,0,0,6
+Long County,Donald J. Trump (Rep),"2,997","1,473",87,0,"4,557"
+Long County,Kamala D. Harris (Dem),"1,617",718,140,1,"2,476"
+Long County,Chase Oliver (Lib),10,5,0,0,15
+Long County,Jill Stein (Grn),2,5,1,0,8
+Lowndes County,Donald J. Trump (Rep),"20,734","6,541",761,45,"28,081"
+Lowndes County,Kamala D. Harris (Dem),"13,291","4,802","1,332",62,"19,487"
+Lowndes County,Chase Oliver (Lib),71,62,7,0,140
+Lowndes County,Jill Stein (Grn),47,36,4,0,87
+Lumpkin County,Donald J. Trump (Rep),"11,469","2,366",501,3,"14,339"
+Lumpkin County,Kamala D. Harris (Dem),"2,504",504,344,4,"3,356"
+Lumpkin County,Chase Oliver (Lib),54,22,5,0,81
+Lumpkin County,Jill Stein (Grn),18,11,2,1,32
+Macon County,Donald J. Trump (Rep),"1,441",433,42,0,"1,916"
+Macon County,Kamala D. Harris (Dem),"1,602",958,195,0,"2,755"
+Macon County,Chase Oliver (Lib),7,4,0,0,11
+Macon County,Jill Stein (Grn),0,3,1,0,4
+Madison County,Donald J. Trump (Rep),"8,724","3,820",403,4,"12,951"
+Madison County,Kamala D. Harris (Dem),"2,236","1,199",315,3,"3,753"
+Madison County,Chase Oliver (Lib),28,25,4,0,57
+Madison County,Jill Stein (Grn),12,13,1,0,26
+Marion County,Donald J. Trump (Rep),"1,427",857,63,1,"2,348"
+Marion County,Kamala D. Harris (Dem),769,331,153,0,"1,253"
+Marion County,Chase Oliver (Lib),5,6,0,0,11
+Marion County,Jill Stein (Grn),6,2,1,0,9
+McDuffie County,Donald J. Trump (Rep),"5,175","1,166",221,0,"6,562"
+McDuffie County,Kamala D. Harris (Dem),"2,515",964,458,0,"3,937"
+McDuffie County,Chase Oliver (Lib),19,9,2,0,30
+McDuffie County,Jill Stein (Grn),2,4,2,0,8
+McIntosh County,Donald J. Trump (Rep),"3,479","1,038",228,2,"4,747"
+McIntosh County,Kamala D. Harris (Dem),"1,769",607,250,2,"2,628"
+McIntosh County,Chase Oliver (Lib),14,11,0,0,25
+McIntosh County,Jill Stein (Grn),5,2,1,0,8
+Meriwether County,Donald J. Trump (Rep),"4,417","2,736",220,2,"7,375"
+Meriwether County,Kamala D. Harris (Dem),"2,186","1,816",370,1,"4,373"
+Meriwether County,Chase Oliver (Lib),11,15,2,0,28
+Meriwether County,Jill Stein (Grn),8,3,1,0,12
+Miller County,Donald J. Trump (Rep),"1,405",539,100,1,"2,045"
+Miller County,Kamala D. Harris (Dem),373,237,60,0,670
+Miller County,Chase Oliver (Lib),0,5,0,0,5
+Miller County,Jill Stein (Grn),1,3,0,0,4
+Mitchell County,Donald J. Trump (Rep),"3,086","1,863",198,3,"5,150"
+Mitchell County,Kamala D. Harris (Dem),"2,090","1,164",447,0,"3,701"
+Mitchell County,Chase Oliver (Lib),9,8,1,0,18
+Mitchell County,Jill Stein (Grn),3,5,0,0,8
+Monroe County,Donald J. Trump (Rep),"9,415","3,270",264,5,"12,954"
+Monroe County,Kamala D. Harris (Dem),"3,106","1,162",419,2,"4,689"
+Monroe County,Chase Oliver (Lib),24,17,0,0,41
+Monroe County,Jill Stein (Grn),11,7,2,0,20
+Montgomery County,Donald J. Trump (Rep),"1,869","1,073",90,1,"3,033"
+Montgomery County,Kamala D. Harris (Dem),489,335,102,1,927
+Montgomery County,Chase Oliver (Lib),4,5,0,0,9
+Montgomery County,Jill Stein (Grn),3,1,0,0,4
+Morgan County,Donald J. Trump (Rep),"7,106","2,258",223,2,"9,589"
+Morgan County,Kamala D. Harris (Dem),"2,488",770,275,0,"3,533"
+Morgan County,Chase Oliver (Lib),29,18,2,0,49
+Morgan County,Jill Stein (Grn),7,2,1,0,10
+Murray County,Donald J. Trump (Rep),"10,450","4,240",275,0,"14,965"
+Murray County,Kamala D. Harris (Dem),"1,512",798,149,0,"2,459"
+Murray County,Chase Oliver (Lib),16,11,2,0,29
+Murray County,Jill Stein (Grn),4,11,0,0,15
+Muscogee County,Donald J. Trump (Rep),"21,094","7,950","1,572",0,"30,616"
+Muscogee County,Kamala D. Harris (Dem),"33,965","11,029","4,419",0,"49,413"
+Muscogee County,Chase Oliver (Lib),118,121,16,0,255
+Muscogee County,Jill Stein (Grn),114,82,11,0,207
+Newton County,Donald J. Trump (Rep),"16,460","7,465",963,5,"24,893"
+Newton County,Kamala D. Harris (Dem),"23,661","7,699","2,466",13,"33,839"
+Newton County,Chase Oliver (Lib),104,76,10,0,190
+Newton County,Jill Stein (Grn),64,59,6,0,129
+Oconee County,Donald J. Trump (Rep),"14,453","3,271",700,0,"18,424"
+Oconee County,Kamala D. Harris (Dem),"6,435","1,319",864,2,"8,620"
+Oconee County,Chase Oliver (Lib),105,55,4,0,164
+Oconee County,Jill Stein (Grn),49,26,4,0,79
+Oglethorpe County,Donald J. Trump (Rep),"4,609","1,397",248,1,"6,255"
+Oglethorpe County,Kamala D. Harris (Dem),"1,705",620,188,2,"2,515"
+Oglethorpe County,Chase Oliver (Lib),10,15,1,0,26
+Oglethorpe County,Jill Stein (Grn),16,9,1,0,26
+Paulding County,Donald J. Trump (Rep),"43,815","12,847","2,091",16,"58,769"
+Paulding County,Kamala D. Harris (Dem),"24,665","8,362","2,764",11,"35,802"
+Paulding County,Chase Oliver (Lib),208,176,18,0,402
+Paulding County,Jill Stein (Grn),115,92,15,1,223
+Peach County,Donald J. Trump (Rep),"5,606","1,256",242,0,"7,104"
+Peach County,Kamala D. Harris (Dem),"4,396","1,501",396,0,"6,293"
+Peach County,Chase Oliver (Lib),22,17,0,0,39
+Peach County,Jill Stein (Grn),11,7,0,0,18
+Pickens County,Donald J. Trump (Rep),"12,346","4,334",600,1,"17,281"
+Pickens County,Kamala D. Harris (Dem),"2,435",700,386,1,"3,522"
+Pickens County,Chase Oliver (Lib),44,35,5,0,84
+Pickens County,Jill Stein (Grn),7,19,2,0,28
+Pierce County,Donald J. Trump (Rep),"6,940","1,455",260,0,"8,655"
+Pierce County,Kamala D. Harris (Dem),757,221,111,0,"1,089"
+Pierce County,Chase Oliver (Lib),9,6,0,0,15
+Pierce County,Jill Stein (Grn),2,0,0,0,2
+Pike County,Donald J. Trump (Rep),"8,249","2,322",280,13,"10,864"
+Pike County,Kamala D. Harris (Dem),"1,072",392,182,2,"1,648"
+Pike County,Chase Oliver (Lib),19,10,0,0,29
+Pike County,Jill Stein (Grn),5,2,1,0,8
+Polk County,Donald J. Trump (Rep),"11,652","3,327",370,3,"15,352"
+Polk County,Kamala D. Harris (Dem),"2,580",893,275,1,"3,749"
+Polk County,Chase Oliver (Lib),30,13,4,0,47
+Polk County,Jill Stein (Grn),13,9,1,0,23
+Pulaski County,Donald J. Trump (Rep),"2,503",447,86,0,"3,036"
+Pulaski County,Kamala D. Harris (Dem),852,304,124,1,"1,281"
+Pulaski County,Chase Oliver (Lib),7,7,0,0,14
+Pulaski County,Jill Stein (Grn),2,2,1,0,5
+Putnam County,Donald J. Trump (Rep),"7,017","1,715",398,6,"9,136"
+Putnam County,Kamala D. Harris (Dem),"2,464",846,384,2,"3,696"
+Putnam County,Chase Oliver (Lib),21,12,0,0,33
+Putnam County,Jill Stein (Grn),7,5,0,0,12
+Quitman County,Donald J. Trump (Rep),480,152,24,0,656
+Quitman County,Kamala D. Harris (Dem),266,181,30,3,480
+Quitman County,Chase Oliver (Lib),1,3,0,0,4
+Quitman County,Jill Stein (Grn),0,0,0,0,0
+Rabun County,Donald J. Trump (Rep),"6,657","1,049",445,0,"8,151"
+Rabun County,Kamala D. Harris (Dem),"1,690",273,259,0,"2,222"
+Rabun County,Chase Oliver (Lib),24,8,3,0,35
+Rabun County,Jill Stein (Grn),9,6,0,0,15
+Randolph County,Donald J. Trump (Rep),955,375,42,1,"1,373"
+Randolph County,Kamala D. Harris (Dem),880,610,111,0,"1,601"
+Randolph County,Chase Oliver (Lib),6,6,0,0,12
+Randolph County,Jill Stein (Grn),0,4,0,0,4
+Richmond County,Donald J. Trump (Rep),"15,740","9,718",997,17,"26,472"
+Richmond County,Kamala D. Harris (Dem),"35,253","17,493","3,834",77,"56,657"
+Richmond County,Chase Oliver (Lib),116,145,14,0,275
+Richmond County,Jill Stein (Grn),70,89,15,0,174
+Rockdale County,Donald J. Trump (Rep),"7,993","3,161",554,3,"11,711"
+Rockdale County,Kamala D. Harris (Dem),"24,984","6,155","2,017",9,"33,165"
+Rockdale County,Chase Oliver (Lib),81,65,3,0,149
+Rockdale County,Jill Stein (Grn),79,47,9,0,135
+Schley County,Donald J. Trump (Rep),"1,538",374,58,0,"1,970"
+Schley County,Kamala D. Harris (Dem),298,101,53,1,453
+Schley County,Chase Oliver (Lib),1,1,1,0,3
+Schley County,Jill Stein (Grn),2,0,0,0,2
+Screven County,Donald J. Trump (Rep),"3,031","1,172",118,4,"4,325"
+Screven County,Kamala D. Harris (Dem),"1,687",737,151,6,"2,581"
+Screven County,Chase Oliver (Lib),5,6,0,0,11
+Screven County,Jill Stein (Grn),0,2,1,0,3
+Seminole County,Donald J. Trump (Rep),"1,625","1,073",109,4,"2,811"
+Seminole County,Kamala D. Harris (Dem),641,480,66,4,"1,191"
+Seminole County,Chase Oliver (Lib),1,2,0,0,3
+Seminole County,Jill Stein (Grn),2,0,0,0,2
+Spalding County,Donald J. Trump (Rep),"13,967","4,432",781,4,"19,184"
+Spalding County,Kamala D. Harris (Dem),"9,126","3,365","1,185",3,"13,679"
+Spalding County,Chase Oliver (Lib),54,54,6,1,115
+Spalding County,Jill Stein (Grn),30,27,3,0,60
+Stephens County,Donald J. Trump (Rep),"8,790","1,377",464,1,"10,632"
+Stephens County,Kamala D. Harris (Dem),"1,789",395,219,1,"2,404"
+Stephens County,Chase Oliver (Lib),30,14,3,0,47
+Stephens County,Jill Stein (Grn),8,7,1,0,16
+Stewart County,Donald J. Trump (Rep),538,258,41,10,847
+Stewart County,Kamala D. Harris (Dem),572,425,173,7,"1,177"
+Stewart County,Chase Oliver (Lib),0,2,0,1,3
+Stewart County,Jill Stein (Grn),0,1,0,0,1
+Sumter County,Donald J. Trump (Rep),"4,037","1,630",200,2,"5,869"
+Sumter County,Kamala D. Harris (Dem),"3,747","1,709",677,3,"6,136"
+Sumter County,Chase Oliver (Lib),12,15,0,1,28
+Sumter County,Jill Stein (Grn),10,4,2,0,16
+Talbot County,Donald J. Trump (Rep),898,546,39,0,"1,483"
+Talbot County,Kamala D. Harris (Dem),985,704,199,0,"1,888"
+Talbot County,Chase Oliver (Lib),0,4,1,0,5
+Talbot County,Jill Stein (Grn),2,1,0,0,3
+Taliaferro County,Donald J. Trump (Rep),264,88,20,3,375
+Taliaferro County,Kamala D. Harris (Dem),304,135,68,0,507
+Taliaferro County,Chase Oliver (Lib),1,0,0,0,1
+Taliaferro County,Jill Stein (Grn),1,0,0,0,1
+Tattnall County,Donald J. Trump (Rep),"4,405","1,927",179,4,"6,515"
+Tattnall County,Kamala D. Harris (Dem),"1,207",607,151,2,"1,967"
+Tattnall County,Chase Oliver (Lib),11,7,1,0,19
+Tattnall County,Jill Stein (Grn),7,4,0,0,11
+Taylor County,Donald J. Trump (Rep),"2,082",433,73,12,"2,600"
+Taylor County,Kamala D. Harris (Dem),783,394,182,7,"1,366"
+Taylor County,Chase Oliver (Lib),7,2,0,0,9
+Taylor County,Jill Stein (Grn),5,2,0,0,7
+Telfair County,Donald J. Trump (Rep),"1,838","1,001",91,0,"2,930"
+Telfair County,Kamala D. Harris (Dem),661,498,115,0,"1,274"
+Telfair County,Chase Oliver (Lib),2,5,0,0,7
+Telfair County,Jill Stein (Grn),2,1,0,0,3
+Terrell County,Donald J. Trump (Rep),"1,310",683,82,0,"2,075"
+Terrell County,Kamala D. Harris (Dem),"1,290",716,246,1,"2,253"
+Terrell County,Chase Oliver (Lib),1,5,1,0,7
+Terrell County,Jill Stein (Grn),2,3,1,0,6
+Thomas County,Donald J. Trump (Rep),"10,489","2,746",430,5,"13,670"
+Thomas County,Kamala D. Harris (Dem),"5,660","2,102",575,10,"8,347"
+Thomas County,Chase Oliver (Lib),17,20,0,0,37
+Thomas County,Jill Stein (Grn),14,10,2,0,26
+Tift County,Donald J. Trump (Rep),"8,260","2,963",267,6,"11,496"
+Tift County,Kamala D. Harris (Dem),"3,479","1,634",322,3,"5,438"
+Tift County,Chase Oliver (Lib),18,17,0,0,35
+Tift County,Jill Stein (Grn),9,10,1,0,20
+Toombs County,Donald J. Trump (Rep),"6,025","1,927",256,0,"8,208"
+Toombs County,Kamala D. Harris (Dem),"1,586",836,252,0,"2,674"
+Toombs County,Chase Oliver (Lib),12,5,1,0,18
+Toombs County,Jill Stein (Grn),7,4,1,0,12
+Towns County,Donald J. Trump (Rep),"5,869",952,333,1,"7,155"
+Towns County,Kamala D. Harris (Dem),"1,257",163,229,0,"1,649"
+Towns County,Chase Oliver (Lib),19,8,0,0,27
+Towns County,Jill Stein (Grn),6,0,1,0,7
+Treutlen County,Donald J. Trump (Rep),"1,614",565,69,2,"2,250"
+Treutlen County,Kamala D. Harris (Dem),552,252,60,0,864
+Treutlen County,Chase Oliver (Lib),0,2,0,0,2
+Treutlen County,Jill Stein (Grn),3,2,0,0,5
+Troup County,Donald J. Trump (Rep),"13,383","5,362",636,11,"19,392"
+Troup County,Kamala D. Harris (Dem),"7,191","3,680",876,10,"11,757"
+Troup County,Chase Oliver (Lib),63,35,4,0,102
+Troup County,Jill Stein (Grn),13,32,8,0,53
+Turner County,Donald J. Trump (Rep),"1,906",498,50,3,"2,457"
+Turner County,Kamala D. Harris (Dem),902,394,67,2,"1,365"
+Turner County,Chase Oliver (Lib),9,1,0,0,10
+Turner County,Jill Stein (Grn),1,0,0,0,1
+Twiggs County,Donald J. Trump (Rep),"1,471","1,010",67,1,"2,549"
+Twiggs County,Kamala D. Harris (Dem),"1,005",610,280,0,"1,895"
+Twiggs County,Chase Oliver (Lib),2,4,1,0,7
+Twiggs County,Jill Stein (Grn),2,3,0,0,5
+Union County,Donald J. Trump (Rep),"10,846","3,073",552,6,"14,477"
+Union County,Kamala D. Harris (Dem),"2,280",607,422,0,"3,309"
+Union County,Chase Oliver (Lib),41,26,1,0,68
+Union County,Jill Stein (Grn),12,11,3,0,26
+Upson County,Donald J. Trump (Rep),"7,658","1,536",326,8,"9,528"
+Upson County,Kamala D. Harris (Dem),"2,832",887,376,3,"4,098"
+Upson County,Chase Oliver (Lib),15,5,5,0,25
+Upson County,Jill Stein (Grn),3,6,2,0,11
+Walker County,Donald J. Trump (Rep),"17,765","6,840",848,9,"25,462"
+Walker County,Kamala D. Harris (Dem),"4,135","1,691",609,1,"6,436"
+Walker County,Chase Oliver (Lib),63,66,3,0,132
+Walker County,Jill Stein (Grn),20,35,1,0,56
+Walton County,Donald J. Trump (Rep),"31,259","9,907","1,233",8,"42,407"
+Walton County,Kamala D. Harris (Dem),"10,826","3,682","1,095",2,"15,605"
+Walton County,Chase Oliver (Lib),148,89,12,0,249
+Walton County,Jill Stein (Grn),56,56,3,0,115
+Ware County,Donald J. Trump (Rep),"7,122","2,775",382,0,"10,279"
+Ware County,Kamala D. Harris (Dem),"2,770",900,398,0,"4,068"
+Ware County,Chase Oliver (Lib),7,17,0,0,24
+Ware County,Jill Stein (Grn),13,7,1,0,21
+Warren County,Donald J. Trump (Rep),977,202,52,1,"1,232"
+Warren County,Kamala D. Harris (Dem),784,454,114,2,"1,354"
+Warren County,Chase Oliver (Lib),2,3,0,0,5
+Warren County,Jill Stein (Grn),0,1,0,0,1
+Washington County,Donald J. Trump (Rep),"3,194","1,449",181,0,"4,824"
+Washington County,Kamala D. Harris (Dem),"2,702","1,454",486,1,"4,643"
+Washington County,Chase Oliver (Lib),7,8,2,0,17
+Washington County,Jill Stein (Grn),6,2,1,0,9
+Wayne County,Donald J. Trump (Rep),"7,856","2,640",311,4,"10,811"
+Wayne County,Kamala D. Harris (Dem),"1,853",687,165,3,"2,708"
+Wayne County,Chase Oliver (Lib),14,8,1,0,23
+Wayne County,Jill Stein (Grn),9,10,0,0,19
+Webster County,Donald J. Trump (Rep),559,178,51,2,790
+Webster County,Kamala D. Harris (Dem),284,180,80,0,544
+Webster County,Chase Oliver (Lib),0,0,1,0,1
+Webster County,Jill Stein (Grn),1,0,0,0,1
+Wheeler County,Donald J. Trump (Rep),"1,058",547,43,0,"1,648"
+Wheeler County,Kamala D. Harris (Dem),369,205,48,0,622
+Wheeler County,Chase Oliver (Lib),4,1,0,0,5
+Wheeler County,Jill Stein (Grn),1,0,0,0,1
+White County,Donald J. Trump (Rep),"10,378","3,299",457,2,"14,136"
+White County,Kamala D. Harris (Dem),"1,809",546,252,2,"2,609"
+White County,Chase Oliver (Lib),36,21,3,0,60
+White County,Jill Stein (Grn),10,8,2,0,20
+Whitfield County,Donald J. Trump (Rep),"16,913","10,903",829,10,"28,655"
+Whitfield County,Kamala D. Harris (Dem),"6,289","3,996",663,5,"10,953"
+Whitfield County,Chase Oliver (Lib),48,73,7,0,128
+Whitfield County,Jill Stein (Grn),30,59,3,0,92
+Wilcox County,Donald J. Trump (Rep),"1,513",915,64,1,"2,493"
+Wilcox County,Kamala D. Harris (Dem),437,373,37,0,847
+Wilcox County,Chase Oliver (Lib),1,4,1,0,6
+Wilcox County,Jill Stein (Grn),0,0,1,0,1
+Wilkes County,Donald J. Trump (Rep),"2,051",805,110,5,"2,971"
+Wilkes County,Kamala D. Harris (Dem),"1,208",659,241,4,"2,112"
+Wilkes County,Chase Oliver (Lib),2,6,0,0,8
+Wilkes County,Jill Stein (Grn),4,0,3,0,7
+Wilkinson County,Donald J. Trump (Rep),"1,384","1,425",79,0,"2,888"
+Wilkinson County,Kamala D. Harris (Dem),"1,075",760,177,0,"2,012"
+Wilkinson County,Chase Oliver (Lib),0,4,0,0,4
+Wilkinson County,Jill Stein (Grn),1,3,0,0,4
+Worth County,Donald J. Trump (Rep),"4,039","2,794",156,2,"6,991"
+Worth County,Kamala D. Harris (Dem),"1,340",757,203,0,"2,300"
+Worth County,Chase Oliver (Lib),6,3,0,0,9
+Worth County,Jill Stein (Grn),3,5,1,0,9
